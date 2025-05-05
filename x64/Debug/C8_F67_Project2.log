@@ -1,0 +1,5 @@
+﻿  C8_F67_Project2.cpp
+E:\Programs\Visual Stedio\Part_A\C 8\C8_F67_Project2\C8_F67_Project2.cpp(45,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\Programs\Visual Stedio\Part_A\C 8\C8_F67_Project2\C8_F67_Project2.cpp(298,2): warning C4102: 'defaulte': unreferenced label
+E:\Programs\Visual Stedio\Part_A\C 8\C8_F67_Project2\C8_F67_Project2.cpp(118): warning C4715: 'LoadClient': not all control paths return a value
+  C8_F67_Project2.vcxproj -> E:\Programs\Visual Stedio\Part_A\C 8\C8_F67_Project2\x64\Debug\C8_F67_Project2.exe
